@@ -14,15 +14,15 @@
 ## Pandas 기본 함수들 익히기
 아래 문서는 영어지만 굳이 영어를 다 읽지 않고 코드를 쭉 따라 하시면 됩니다. 
 
-[10 mins to Pandas (영어)] (https://pandas.pydata.org/pandas-docs/stable/10min.html)
+[10 mins to Pandas (영어)](https://pandas.pydata.org/pandas-docs/stable/10min.html)
 
 한글이 편하시면 아래 포스트를 보셔도 좋습니다. (그래도 위에 것은 따라 해 보세요.)
 
-[한글 블로그 포스트] (http://nittaku.tistory.com/113)
+[한글 블로그 포스트](http://nittaku.tistory.com/113)
 
 영상이 편하시면 유튜브 채널도 있어요. 한글입니다!
 
-[[Pandas 강의] 팬더스, 데이터프레임, 시리즈 알아보기] (https://www.youtube.com/watch?v=pFXipjh0ghw)
+[[Pandas 강의] 팬더스, 데이터프레임, 시리즈 알아보기](https://www.youtube.com/watch?v=pFXipjh0ghw)
 
 #### 막연한 학습보다는 특정 이슈의 해결을 목표로 하세요.
 pandas를 처음 접하면 막연할 수 있습니다. 그냥 막연히 공부하는 것이 어렵다면 특정 이슈 (이걸 분석하고 싶다라는 목적을 가지고 그 목적을 달성하기 위해서 어떻게 해야하지라는 질문)으로 검색을 해 보세요. 하다가 어려우면 노트북 화일과 함께 메일을 주시면 시간 나는 대로 살펴 봐 드릴게요.
